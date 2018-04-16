@@ -12,7 +12,7 @@ max_color_value = 10;
 
 % jet_color = colormap(hsv(max_color_value));
 % jet_color = colormap(cool(max_color_value));
- jet_color = colormap(hot(max_color_value));
+  jet_color = colormap(hot(max_color_value));
 % jet_color = colormap(pink(max_color_value));
 % jet_color = colormap(gray(max_color_value));
 % jet_color = colormap(pink(max_color_value));
